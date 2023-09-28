@@ -1,0 +1,632 @@
+history
+clear
+dsf
+df
+fdsd
+fl
+./a.out
+gcc lmc.c
+ls
+cd ./
+./
+kate lmc.c
+gcc hcf.c
+kate hcf.c
+gcc exmpl1.c
+gcc exercise_A_d.c
+gcc exercise_A_c.c
+gcc exercise_A_b.c
+gcc exercise_A_a.c
+gcc -o main pr1.c functions.c
+gcc pr1.c functions.c -o combined
+gcc pr1.c
+gcc hello.c world.c -o compiled
+kate world.c
+kate hello.c
+gcc world.c
+gcc hello.c
+gcc sotrage_class_external3.c sotrage_class_external2.c -o compined
+gcc sotrage_class_external3.c
+gcc sotrage_class_external2.c
+gcc sotrage_class_external.c
+./a
+gcc sotrage_class_static.c
+gcc sotrage_class_regiser.c
+gcc sotrage_class_auto.c
+sudo su
+sudo snap refresh
+sudo apt update
+echo $JAVA_HOME
+neofetch
+nano .bashrc.bak
+java HelloWorld
+java HelloWorld.class
+java Hello
+javac hello.java
+javac HelloWorld
+javac HelloWorld.class
+java hello
+exit
+source config.fish
+sudo nano config.fish
+cd /etc/fish
+ls -la
+chsh -s /usr/bin/fish
+cd
+help
+sudo apt install fish zsh
+fish
+bashtop
+reboot
+apt search firewall
+./setup.sh
+sudo apt install autojump
+cd mybash/
+cat .bashrc.bakup
+cp .bashrc .bashrc.bakup
+git clone https://github.com/ChrisTitusTech/mybash.git
+sudo rm -rf ~/.inputrc
+rm -rf ~/.inputrc
+sudo apt upgrade
+nano ~/.inputrc
+cd ~/.fonts/
+sudo apt install zoxide
+mkdir ~/.fonts
+sudo bashtop
+git status
+git push origin -u master
+git branch
+git push origin -u main
+git remote -v
+git config -l
+git config --global edit
+git commit -m "Made changes in pointer folder"
+git add .
+git add.
+cd ..
+git restore .
+gcc avg_prctg_pointer.c
+gcc sum_avg_std_pointer.c -lm
+gcc sum_avg_std_pointer.c
+gcc area_perimeter_circle_pointer.c
+gcc pointer1.c
+flatpak update
+sudo apt autoremove
+git --version
+sudo apt-get remove git-all
+git
+sudo apt-get install git-all
+sudo snap install anytype
+apt search anytype
+flatpak install anytype
+flatpak install appflowy
+flatpak install flathub com.logseq.Logseq
+sudo dpkg -i anytype_0.35.1_amd64.deb
+gcc pattern7.c
+gcc pattern9.c
+gcc pattern12.c
+./A
+gcc pattern11.c
+gcc pattern10.c
+nvim pattern7.c
+nvim pattern8.c
+kate pattern9.c
+nvim pattern9.c
+sudo apt install github
+apt list installed
+apt list installed | wc
+apt list installed | wc -c
+apt list installed | wc -l
+git pull origin master
+git branch -M master
+git remote add origin https://github.com/dodo01m/C_LANGUAGE_COURSE.git
+git init
+cd Language/
+mkdir Language
+git config --global -l
+git user
+git config
+git config  edit
+git congif --global edit
+sudo apt install gimp
+apt search gimp
+snap search gimp
+sudo apt install bash-completion
+apt info bash-completion
+flatpak search gimp
+sudo snap remove gimp
+snap list
+apt list
+apt list gimp
+rm -d Por/
+mkdir Por
+git push -u origin master
+git commit -m "Make some changes in pattern folder"
+mv patter4.c pattern4.c
+cd Pattern/
+git commit -m "Done some pattern example"
+gcc pattern8.c
+gcc pattern6.c
+nvim pattern6.c
+gcc pattern5.c
+nvim pattern5.c
+nvim patter4.c
+gcc patter4.c
+gcc pattern3.c
+nvim pattern3.c
+gcc pattern2.c
+nvim pattern2.c
+nvim pattern1.c
+gcc pattern1.c
+git commit -m "Patter is added"
+vim patter1.c
+mkdir Pattern
+git commit -m "Logic Building folder is added"
+gcc prime_num.c
+nvim prime_num.c
+cat prime_num.c
+mkdir Logic Building
+cd C_Language/
+sudo apt install nautilus
+apt search nautilus
+apt search gnome-files
+apt search Files
+git push origin master
+git push master
+git commit -m "Struct folder is modified"
+gcc seruct_ptr.c
+nano seruct_ptr.c
+cd Structures/
+git diff main
+git checkout master
+git branch master
+cat README.md
+code
+vscode
+git push origin main
+git branch -M main
+git push -u origin
+git push --set-upstream origin master
+git push -f origin
+git commit -m "Added all C file to github from local storage"
+git config --global user.email "manojmondal355@gmail.com"
+git config --global user.name "kakashi Hotake"
+git congit  -l
+git congit --global -l
+git log
+git push
+git commit -m "branch merge error solve"
+git merge main
+git commit -m "add deopdown"
+git checkout feaature1
+git commit -m "botton added"
+git pull origin main
+git checkout main
+git checkout
+git push origin feaature1
+git commit -m "Add new feature"
+git branch -d feature2
+git checkout -b feature2
+git checkout -b feaature1
+rm -rf Array/
+rm -rf
+mkdir Array
+git commit -m "change in Readme.md file"
+git commit -m "added Readme.md file"
+git push -u origin main
+git remote add origin https://github.com/mob23355/C_Language.git
+git commit -m "First C progrram"
+touch hello.c
+cat hello.c
+cd LocalRepo/
+mkdir LocalRepo
+cd Github_Tutorial/
+git ststus
+git commit -m "Added new file"
+cd My_github_tutorial/
+git clone https://github.com/mob23355/My_github_tutorial.git
+git config --list
+mkdir Github_Tutorial
+cd GitHub/
+cd G
+rm -rf Git_Tutorial/
+pwd
+cd Git_Tutorial/
+mkdir Git_Tutorial
+rm -rf Github-Tutorial/
+rmd -rf Github-Tutorial/
+git config --global user.email "mapes33242@vikinoko.com"
+git config --global user.name "Mob"
+git commit -m "index.html is added"
+git add README.md
+git add index.html
+git commit README.md
+cd .git/
+ls -a
+cd Github-Tutorial/
+git clone https://github.com/dodo01m/Github-Tutorial.git
+clerar
+git clone
+git pull --rebase origin main
+git commit -m "I have add new in index.html"
+nano index.html
+git config --global user.name "Kakashi Kotake"
+cd Downloads/
+cd tmp/
+cd /
+history --git
+history git
+ld
+gcc ex_calloc.c
+gcc example3.c
+gcc example2.c
+gcc example_malloc.c
+gcc example_calloc.c
+gcc example_price.c
+gcc exmpl.c
+cd .
+gcc prt_str_slice.c
+gcc prt_str3_salt.c
+gcc prt_str2.c
+gcc prt_str.c
+gcc string_arry.c
+gcc practice_string.c
+gcc prctice.c
+gcc practice.c
+gcc reverse_arr6.c
+gcc reverse_arr5.c
+gcc reverse_arr4.c
+gcc reverse_ar3.c
+4
+gcc reverse_arr2.c
+gcc reverse_arr1.c
+3
+gcc alphabet_ptr.c
+gcc max_num_pointer.c
+sudo apt update && sudo apt upgrade
+sudo nano .bashrc
+source .bashrc
+nvim file_ex.c
+gcc file_ex.c
+nvim test.txt
+touch test.txt
+echo test.txt
+rm i
+rm test.txt
+cat test.txt
+cat i
+echo test.txt >> i am manoj
+rm -rf manoj
+rm -rf am
+rm -rf i
+touch test.txt >> i am manoj
+cat file_ex.c
+nvim
+cd File/
+mkdir File
+htop
+gcc file4.c
+gcc file3.c
+gcc file2.c
+gcc accunt_info_str.c
+gcc complex_num_str.c
+gcc struct_vectro.c
+gcc struct5.c
+gcc struct_typedef.c
+gcc struct4.c
+gcc struct3.c
+gcc structure2.c
+gcc struct1.c
+gcc character_check_string.c
+gcc vowel_count_string.c
+gcc vol
+gcc slice_string_array.c
+gcc salted_passrd_array.c
+gcc insert_elements_array.c
+gcc string_char.c
+gcc string_full_name.c
+apt search clang
+clang
+gcc --version
+gcc first_last_nm_array.c
+gcc char_array.c
+gcc rev_array_function.c
+gcc array_Mtable.c
+gcc fibonacci_arr.c
+gcc rev_array3.c
+gcc rev_arry2.c
+6
+gcc rev_array2.c
+gcc rev_array1.c
+gcc arry_odd_count.c
+gcc insert_num_array.c
+gcc y.c
+gcc array_num_ocr_Xtime.c
+gcc array_example.c
+cd Array/
+gcc odd_num_count_array.c
+flatpak remove io.github.vinegarhq.Vinegar
+flatpak list
+flatpak remove vineger
+sudo apt full-upgrade
+gcc array3.c
+gcc traverse_array.c
+gcc pointer_value_change.c
+gcc array_pointer.c
+gcc array2.c
+gcc array_final_price.c
+gcc array_marks.c
+gcc array1.c
+gcc maximux_number.c
+gcc max_min.c
+gcc sum_prod_avg.c
+gcc swap.c
+gcc swap_cl.c
+gcc call_by_reference.c
+gcc call_by_value.c
+gcc ternary_op.c
+gcc example5.c
+gcc example4.c
+gcc example1.c
+gcc pow_function.c
+gcc hot_cold.c
+gcc sum_of_digit.c
+gcc fibonacci.c
+gcc convert_celsiusTOfahrenheit.c
+gcc sum_natural_num.c
+gcc print_hello_world.c
+gcc square_num.c
+gcc factorial_new.c
+msfconsole
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall &&   chmod 755 msfinstall &&   ./msfinstall
+apt metasploit
+nmap
+sudo apt install nmap
+apt search nmap
+sudo apt autoremove wireshark-gtk
+sudo apt reinstall aircrack-ng wifite scrcpy wireshark-gtk
+sudo apt reinstall aircrack-ng wifite scrcpy wireshark-qt
+sudo apt reinstall aircrack-ng wifite scrcpy
+sudo apt install aircrack-ng wifite scrcpy
+apt search aircrack-ng
+cd /Documents
+snort
+sudo apt install snort
+sudo apt install short
+snort info
+sudo apt install torbrowser-launcher
+flatpak search torbrowser
+snap search torbrowser
+apt search torbrowser
+sudo snap install gedit --edge
+gedit history.txt
+cat history.txt
+echo history.txt
+sudo apt update >> history.txt
+apt update
+whoami
+ls -l
+ls ls
+list
+php --version
+php
+history >> history.txt
+locate wordlist
+locate manoj
+locate bash
+locate tor
+sudo apt install php
+flatpak install flathub com.microsoft.Edge
+apt search edge
+adb sideload evolution_beryllium-ota-tq3c.230805.001.b2-09120841-unsigned.zip
+adb sideload AlphaDroid-13.0-20230827-beryllium-gapps-v1.8.zip
+adb sideload fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
+cd Download/
+adb sideload risingOS-v1.4-Elysium-FINAL-202309120437-beryllium-GAPPS-OFFICIAL.zip
+adb sideload PixelExperience_Plus_beryllium-13.0-20230912-0516-UNOFFICIAL.zip
+cd Documents/
+sudo apt install alien-arena
+sudo apt install supertuxkart
+gcc calculate_power.c
+gcc factorial2.c
+gcc factorial.c
+gcc math.c -lm
+gcc arg_paramtr.c
+gcc sum.c
+gcc sum2.c
+cat sum.c
+./a.out ls
+cat myinfo.c
+./myinfo
+gcc myinfo.c -o myinfo
+gcc myinfo.c  manoj
+gcc myinfo.c -O manoj
+gcc myinfo.c - manoj
+gcc -O myinfo.c manoj
+gcc -o myinfo.c manoj
+gcc myinfo.c -0 manoj
+javac --version
+java --version
+tail -5 ~/.bashrc
+echo "export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64" >> ~/.bashrc
+cp ~/.bashrc ~/.bashrc.bak
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+which java
+which javac
+sudo apt install default-jdk
+sudo apt install default-jre
+snap remove openjdk
+javac
+snap install openjdk
+sudo apt update && sudo apt install --install-recommends jdk
+sudo apt update && sudo apt install --install-recommends openjdk
+java
+sudo apt update && sudo apt install --install-recommends winehq-stable
+sudo apt update && sudo apt install --install-recommends winehq-devel
+lsb_release -a
+apt search wine
+adb sideload evolution_violet-ota-tq3c.230805.001.b2-09021022-unsigned.zip
+adb sideload evolution_sweet-ota-tq3c.230805.001.b2-08271445.zip
+adb sideload fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
+adb sideload ProjectElixir_3.11_sweet-13.0-20230826-1642-OFFICIAL.zip
+adb sideload risingOS-v1.3.1-Damascus-RELEASE-202308261204-sweet-GAPPS-OFFICIAL.zip
+sudo dpkg -i softmaker-freeoffice-2021_1064-01_amd64.deb
+snap search freeoffice
+flatpak search freeoffice
+flatpak install notepadqq
+apt search freeoffice
+sudo apt install nexuiz
+flatpak search nexuiz
+sudo apt search nexuiz
+Nexuiz
+NexuizNexuiz
+flatpak uninstall audiosharing
+flatpak install flathub de.haeckerfelix.AudioSharing
+flatpak install flathub org.gnome.gitlab.YaLTeR.Identity
+flatpak install flathub io.github.fkinoshita.Telegraph
+flatpak install flathub com.github.dail8859.NotepadNext
+flatpak install flathub io.github.nuttyartist.notes
+flatpak install flathub org.standardnotes.standardnotes
+flatpak install notepad
+flatpak install note
+flatpak install flathub org.gnome.Evince
+flatpak install 0ad
+flatpak search libreoffice
+snap search libreoffice
+apt list --installed
+apt list libreoffice
+snap search code
+apt search vscode
+apt search code
+apt list | wc -l
+sudo snap install darktable --edge
+flatpak install krita
+sudo snap remove krita
+sudo snap install krita --edge
+sudo snap uninstall krita
+sudo snap refresh krita --edge
+sudo snap krita refresh
+sudo snap krita refresh --edge
+sudo apt autoremove darktable
+sudo apt install darktable
+apt search darktable
+flatpak remove darktable
+flatpak search darktable
+darktable -version
+flatpak search onlyoffice
+apt search onlyoffice
+sudo dpkg -i onlyoffice-desktopeditors_amd64.deb
+sudo apt install fonts-crosextra-carlito
+sudo apt --fix-broken install
+sudo apt install transmission
+sudo apt autoremove ktorrent
+adb sideload PixelExperience_Plus_sweet-13.0-20230823-1327-OFFICIAL.zip
+adb sideload lineage-20.0-20230717-UNOFFICIAL-sweet.zip
+adb sideload NikGapps-Addon-13-DigitalWellbeing-20230716-signed.zip
+adb sideload NikGapps-
+adb sideload NikGapps-core-arm64-13-20230716-signed.zip
+adb sideload ProtonPlus-13.2-Stable-sweet-COMMUNITY-Vanilla-20230815-unnoficial.zip
+sudo flatpak update
+fastboot flash recovery KewL_TWRP-3.6.2_12-sweet.img
+adb sideload PixelExtended-5.10_sweet-13.0-20230817-0041-UNOFFICIAL.zip
+adb sideload risingOS-v1.3-Dvaraka-RELEASE-202308151946-sweet-GAPPS-UNOFFICIAL.zip
+adb sideload awaken-3.9-triton_void-sweet-unofficial-1541-20230820.zip
+adb sideload SuperiorOS-EXTENDED-sweet-GAPPS-20230820-2224.zip
+sudo snap install gimp --edge
+sudo snap install gimp
+adb sideload PixelExperience_Plus_sweet-13.0-20230815-1558-OFFICIAL.zip
+adb sideload PixelExperience_Plus_sweet-13.0-20230813-1950-UNOFFICIAL.zip
+adb sideload fw
+fastboot flash recovery recovery.img
+adb sideload evolution_sweet_2023_08_12_7.9.7.zip
+fastboot flash recovery recovery
+sudo make uninstall
+sudo make install
+make
+cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=lib -DBUILD_TESTING=OFF ..
+cd Lightly && mkdir build && cd build
+git clone --single-branch --depth=1 https://github.com/Luwx/Lightly.git
+sudo apt install cmake build-essential libkf5config-dev libkdecorations2-dev libqt5x11extras5-dev qtdeclarative5-dev extra-cmake-modules libkf5guiaddons-dev libkf5configwidgets-dev libkf5windowsystem-dev libkf5coreaddons-dev libkf5iconthemes-dev gettext qt3d5-dev
+gcc function1.c
+nano /usr/share/doc/python3.11/README.venv
+nano /usr/share/doc/python3.11/
+pip install playsound
+pip3 install playsound
+sudo apt install python3-pip
+python play_sound.py
+hostname
+hustname
+sudo apt install google-android-platform-tools-installer
+sudo apt install google-android-platform-tools-installer fastboot
+adb
+sudo apt install krita kdenlive shotcut
+cd /home/koko09
+nano .bashrcnew
+nano .bashrc
+source .bashrcnew
+sudo apt install clementine
+wine winecfg
+sudo apt install --install-recommends winetricks playonlinux
+sudo apt install --install-recommends winehq-stable
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/lunar/winehq-lunar.sources
+sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+sudo mkdir -pm755 /etc/apt/keyrings
+dpkg --print-foreign-architectures
+dpkg --print-architecture
+flatpak remote-add --if-not-exists org.freedesktop.Platform.openh264
+flatpak remote-add --if-not-exists flatpak
+flatpak remote-add --if-not-exists flathub
+flatpak remote-add --if-not-exists
+flatpak remote-add --help
+flatpak install org.freedesktop.Platform.openh264
+flatpak uninstall org.freedesktop.Platform.openh264
+flatpak remove org.freedesktop.Platform.openh264
+flatpak reinstall org.freedesktop.Platform.openh264
+flatpak remove --unused
+flatpak repair --user
+chrome
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+flatpak repair
+sudo flatpak repair
+sudo apt install openh264
+curl -o /tmp/libopenh264-2.2.0-linux64.6.so.bz2 http://ciscobinary.openh264.org/libopenh264-2.2.0-linux64.6.so.bz2
+sudo apt install simplescreenrecorder
+apt info simplescreenrecorder
+snap info simplescreenrecorder
+simplescreenrecorder
+simplescreen
+sudo snap install discord
+sudo snap install discord --latest
+snap info discord
+discord
+apt insto discord
+apt info make
+apt info makr
+sudo apt install make
+sudo snap install --edge nvim --classic
+sudo snap install nvim --edge
+sudo snap install nvim
+snap info nvim
+sudo nano /etc/apt/sources.list
+sudo apt update && sudo apt upgrade && sudo snap refresh && flatpak update
+sudo apt install vlc
+sudo apt install ardour mixxx pitivi handbrake rhythmbox minder xournalpp homebank foliate color-picker freecad inkscape librecad scribus endeavour
+sudo apt install nano python-is-python3 git wget cmatrix sl
+sudo apt install nano python git wget cmatrix sl
+nano
+sudo snap install telegram-desktop --edge
+snap search telegram-desktop
+apt search telegram-desktop
+apt info telegram-desktop
+apt info telegram
+sudo snap refresh firefox --edge
+sudo apt install htop bashtop
+sudo usermod -aG vboxusers $USER
+sudo apt install virtualbox virtualbox-dkms virtualbox-ext-pack virtualbox-guest-utils virtualbox-guest-additions-iso
+apt info virtualbox
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+sudo apt install flatpak gnome-software-plugin-flatpak gnome-software-plugin-snap
+flatpak
+snap
+sudo apt install neofetch
+sudo apt update && sudo apt full-upgrade
