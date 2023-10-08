@@ -1,0 +1,108 @@
+commit f50302aeddf0782efe21178825f8ae616b283ab9
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Wed Oct 4 21:58:33 2023 +0530
+
+    Made changes in practice and pointer
+
+commit f60febeaafcb38188ee48ccb4a89efcf57125cf5
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Mon Oct 2 09:48:59 2023 +0530
+
+    Made changes in practice folder
+
+commit 4ba2c6f0e0d65b8f01e1830dc7cd11bdece39b8c
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Fri Sep 29 12:34:35 2023 +0530
+
+    Made some changes in Practice folder
+
+commit 7c426d096e6a022be8ce12271852e01fccad2b9b
+Merge: d864917 95cbbd2
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Thu Sep 28 06:55:30 2023 +0530
+
+    Merge branch 'master' of https://github.com/dodo01m/C_LANGUAGE_COURSE
+
+commit d864917aaf6cc4dfec62956e5d32162f57ea852a
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Thu Sep 28 06:51:06 2023 +0530
+
+    Learned Preprocessor and make some changes
+
+commit 95cbbd2387452cbd243ebfa6206f05ab5915c72c
+Merge: 39762a0 fed69d9
+Author: Kakashi Hotake <120241893+dodo01m@users.noreply.github.com>
+Date:   Sat Sep 23 10:10:02 2023 +0530
+
+    Merge pull request #2 from dodo01m/main
+    
+    Merge pull request #1 from dodo01m/master
+
+commit fed69d9309cbb3c9889ca8985c8a5a4894d4025f
+Merge: b75a235 39762a0
+Author: Kakashi Hotake <120241893+dodo01m@users.noreply.github.com>
+Date:   Sat Sep 23 10:09:16 2023 +0530
+
+    Merge pull request #1 from dodo01m/master
+    
+    Request to marging
+
+commit 39762a0a4e6c2fcbcd3e4dc5255974db24233cee
+Author: Kakashi Hotake <120241893+dodo01m@users.noreply.github.com>
+Date:   Sat Sep 23 04:29:21 2023 +0000
+
+    Update README.md
+
+commit e8729a9a5e331c4bb2637b70e05317cd01550bff
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Sat Sep 23 09:50:01 2023 +0530
+
+    Made changes in pointer folder
+
+commit a22f87585b5f635b3c26433e3512443137e77c85
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Mon Sep 18 09:36:10 2023 +0530
+
+    Make some changes in pattern folder
+
+commit 83289664daf09af19542c1d11c39dc6a0192e244
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Mon Sep 18 09:33:01 2023 +0530
+
+    Done some pattern example
+
+commit ad1598294e1b1bf5a70df5a44c1e2a0ea84301fc
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Mon Sep 18 07:22:20 2023 +0530
+
+    Patter is added
+
+commit af18969e22f8e14e0e8143024d52566501faba9a
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Mon Sep 18 07:13:07 2023 +0530
+
+    Logic Building folder is added
+
+commit 3088a86580804ba28367b045f88a0177b82330a6
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Sun Sep 17 23:33:23 2023 +0530
+
+    Struct folder is modified
+
+commit b75a235039dac7005b20cb7ec8d4905031091bf6
+Author: kakashi Hotake <manojmondal355@gmail.com>
+Date:   Sun Sep 17 23:17:14 2023 +0530
+
+    Added all C file to github from local storage
+
+commit 4557e84fdc2e822d8ac042959174301bb37aa8f6
+Author: Kakashi Hotake <120241893+dodo01m@users.noreply.github.com>
+Date:   Sun Sep 17 17:42:10 2023 +0000
+
+    Update README.md
+
+commit 4d86323f65d15c5f2f2d3024da3dfd589e220120
+Author: Kakashi Hotake <120241893+dodo01m@users.noreply.github.com>
+Date:   Sun Sep 17 17:41:28 2023 +0000
+
+    Initial commit
