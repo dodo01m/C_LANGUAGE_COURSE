@@ -1,0 +1,20 @@
+Enter the value of n : *    *
+ *  * 
+  **  
+  **  
+ *  * 
+*    *
+Enter the value of n : 
+*    *
+ *  * 
+  **  
+  **  
+ *  * 
+*    *
+Enter the value of n : 
+*    *
+ *  * 
+  **  
+  **  
+ *  * 
+*    *
